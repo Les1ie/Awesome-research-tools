@@ -5,7 +5,7 @@ Awesome research tools!!!
 
 ### 翻译
 
-- [百度翻译](http://fanyi.baidu.com)、[谷歌翻译](https://translate.google.com/)，懂的都懂。
+- [百度翻译](http://fanyi.baidu.com)、[谷歌翻译](https://translate.google.com/)：懂的都懂。
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 
 ### 语法检查
@@ -22,13 +22,13 @@ Awesome research tools!!!
 ### 其他
 
 - [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词搜索相近意思的英文词。
-- [acronymify](http://acronymify.com/search?q)：给定关键词，给模型、算法等进行命名，非常好玩的一个工具。
+- [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 
 ## 绘图、数据可视化
 
 > 不同库的比较可以参考 https://anvil.works/blog/plotting-in-matplotlib 。
 
-- [matplotlib](https://matplotlib.org/)：基础的 python 绘图库。
+- [matplotlib](https://matplotlib.org/)：基础的 Python 绘图库。
 - [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 - [plotly](https://plotly.com/)：支持在浏览器中进行交互的绘图库，交互体验更好。
 - [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
@@ -52,9 +52,9 @@ Awesome research tools!!!
 ### GNN
 
 - [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 Pytorch。
-- [PyG]()：深度图神经网络库，支持异构图，仅支持Pytorch。
+- [PyG]()：深度图神经网络库，支持异构图，仅支持 Pytorch。
 
-## 开发
+## 其他工具
 
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与RGB表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具。
