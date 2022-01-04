@@ -64,3 +64,11 @@ Awesome research tools!!!
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与RGB表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
+
+
+
+## Conference List
+
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
+- [Top Computer Science Conferences](https://research.com/conference-rankings/computer-science)：计算机各个领域顶会会议列表及其会议时间、地点、截稿时间和影响因子。
+- [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
