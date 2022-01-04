@@ -13,6 +13,7 @@ Awesome research tools!!!
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
+- [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 Latex 写作与编译的情况。
 
 ### 英文例句
 
