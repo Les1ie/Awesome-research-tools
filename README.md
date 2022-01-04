@@ -52,20 +52,24 @@ Awesome research tools!!!
 
 ### NLP
 
-- [transformers](https://huggingface.co/docs/transformers/index)：预训练的Transformers、BERT等模型，直接调用，基于 Pytorch。
+- [transformers](https://huggingface.co/docs/transformers/index)：预训练的 Transformers、BERT 等模型，直接调用，基于 Pytorch。
 
 ### GNN
 
 - [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 Pytorch。
 - [PyG]()：深度图神经网络库，支持异构图，仅支持 Pytorch。
 
+## 开放数据集
+
+- [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
+- [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter相关的数据集列表。
+- [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和AMiner中学术网络的学术网络图。
+
 ## 其他工具
 
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与RGB表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
-
-
 
 ## Conference List
 
