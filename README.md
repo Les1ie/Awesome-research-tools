@@ -25,6 +25,10 @@ Awesome research tools!!!
 - [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词搜索相近意思的英文词。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 
+### 数学公式
+
+- [AxMath](https://www.amyxun.com/)：便宜好用的国产公式编辑器，按设备永久认证，MathType 的平替（不付费虽然功能受限，但也基本够用）。
+
 ## 绘图、数据可视化
 
 > 不同库的比较可以参考 https://anvil.works/blog/plotting-in-matplotlib 。
