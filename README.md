@@ -62,8 +62,8 @@ Awesome research tools!!!
 ## 开放数据集
 
 - [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
-- [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter相关的数据集列表。
-- [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和AMiner中学术网络的学术网络图。
+- [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter 相关的数据集列表。
+- [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和 AMiner 中学术网络的学术网络图。
 
 ## 其他工具
 
