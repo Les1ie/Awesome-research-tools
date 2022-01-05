@@ -74,6 +74,7 @@ Awesome research tools!!!
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
 - [paperswithcode](https://paperswithcode.com/)：论文代码查找。
 - [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
+- [connected papers](https://www.connectedpapers.com/)：找引文。
 
 ## Conference List
 
