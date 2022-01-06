@@ -11,13 +11,14 @@ Awesome research tools!!!
 
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
+- [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
 
 ### 语法检查
 
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
-- [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 Latex 写作与编译的情况。
+- [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
 
 ### 英文例句
 
@@ -32,6 +33,8 @@ Awesome research tools!!!
 ### 数学公式
 
 - [AxMath](https://www.amyxun.com/)：便宜好用的国产公式编辑器，按设备永久认证，MathType 的平替（不付费虽然功能受限，但也基本够用）。
+- [MathPix](https://mathpix.com/)：公式识别工具，可以使用桌面版进行快捷识别，但是每个月有次数限制（教育邮箱50次/月，其他20次/月，收费订阅可以提高数量限制），使用教育邮箱注册且只识别复杂公式的话是基本够用的。
+- [latexlive公式编辑器](https://www.latexlive.com/home)：网页版的 LaTeX 公式编辑器，支持拖拽、上传、剪切板粘贴进行图片识别，支持 Physics、Mhchem 等拓展。
 
 ## 绘图、数据可视化
 
