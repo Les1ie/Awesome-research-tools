@@ -83,7 +83,7 @@ Awesome research tools!!!
 
 **综合论文列表**：
 
-- Paper with code：https://paperswithcode.com/。
+- [Paper with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
 
 **按研究方向**：
 
