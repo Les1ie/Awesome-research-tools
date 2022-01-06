@@ -72,6 +72,15 @@ Awesome research tools!!!
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
 
+## Paper List
+
+- 各个方向有源码的论文：https://paperswithcode.com/。
+- 图强化学习：[Graph Reinforcement Learning Papers](https://github.com/SunQingYun1996/Graph-Reinforcement-Learning-Papers)。
+- GNN：[Must-read papers on GNN](https://github.com/thunlp/GNNPapers)。
+- 影响传播预测：[Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)、[Paper List of Deep Learning-based Information Diffusion Modeling](https://github.com/ChenNed/Awesome-DL-Information-Cascades-Modleing)。
+- 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
+- 图表示学习（图嵌入）：[Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)、[awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)、[Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)。
+
 ## Conference List
 
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
