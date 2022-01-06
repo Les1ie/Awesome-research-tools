@@ -78,7 +78,12 @@ Awesome research tools!!!
 
 ## Paper List
 
-- 各个方向有源码的论文：https://paperswithcode.com/。
+**综合论文列表**：
+
+- Paper with code：https://paperswithcode.com/。
+
+**按研究方向**：
+
 - 图强化学习：[Graph Reinforcement Learning Papers](https://github.com/SunQingYun1996/Graph-Reinforcement-Learning-Papers)。
 - GNN：[Must-read papers on GNN](https://github.com/thunlp/GNNPapers)。
 - 影响传播预测：[Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)、[Paper List of Deep Learning-based Information Diffusion Modeling](https://github.com/ChenNed/Awesome-DL-Information-Cascades-Modleing)。
