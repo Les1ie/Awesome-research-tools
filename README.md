@@ -83,6 +83,7 @@ Awesome research tools!!!
 - [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和 AMiner 中学术网络的学术网络图。
 - [SNAP](http://snap.stanford.edu/data/index.html)：斯坦福大型网络数据集集合。
   
+
 </p></details>
 
 <details><summary>自然语言</summary><p>
@@ -117,6 +118,7 @@ Awesome research tools!!!
 - 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
 - 图表示学习（图嵌入）：[Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)、[awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)、[Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)。
 - 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
+- 社交网络影响力最大化：[awesome-influence-maximization-papers](https://github.com/geopanag/awesome-influence-maximization-papers)。
 
 ## Conference List
 
