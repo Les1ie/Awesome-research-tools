@@ -1,4 +1,5 @@
 # Awesome-research-tools
+
 Awesome research tools!!!
 
 欢迎结合自己的研究方向提 PR、Issue。
@@ -50,7 +51,7 @@ Awesome research tools!!!
 
 ### 通用
 
-- [pytorch-lightning](https://www.pytorchlightning.ai/)：更为高级的 Pytorch 编程接口，能编写出更高质量、更简洁的 Pytorch 代码。
+- [pytorch-lightning](https://www.pytorchlightning.ai/)：更为高级的 Pytorch 编程接口，能编写出更高质量、更简洁的 PyTorch 代码。
 
 ### 优化
 
@@ -59,20 +60,33 @@ Awesome research tools!!!
 
 ### NLP
 
-- [transformers](https://huggingface.co/docs/transformers/index)：可直接调用预训练的 Transformers、BERT 等模型，基于 Pytorch。
+- [transformers](https://huggingface.co/docs/transformers/index)：可直接调用预训练的 Transformers、BERT 等模型，基于 PyTorch。
+- [SentenceTransformers](https://www.sbert.net)：Python 库，可以直接获得句子级嵌入，基于 PyTorch。
+- [fairseq](https://github.com/pytorch/fairseq)：PyTorch 团队开发的 seq2seq 库，实现了较多主流模型，可以用于机器翻译、摘要等任务训练。
 
 ### GNN
 
-- [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 Pytorch。
-- [PyG]()：深度图神经网络库，支持异构图，仅支持 Pytorch。
+- [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch。
+- [PyG]()：深度图神经网络库，支持异构图，仅支持 PyTorch。
 
 ## 开放数据集
 
+**综合数据集**
+
 - [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
 - [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter 相关的数据集列表。
-- [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和 AMiner 中学术网络的学术网络图。
-- [SNAP](http://snap.stanford.edu/data/index.html)：斯坦福大型网络数据集集合。
 
+**按数据类别、研究方向**
+
+<details><summary>图</summary><p>
+  - [Open Academic Graph (OAG)](https://www.microsoft.com/en-us/research/project/open-academic-graph/)：微软提供的包含微软学术网络和 AMiner 中学术网络的学术网络图。
+  - [SNAP](http://snap.stanford.edu/data/index.html)：斯坦福大型网络数据集集合。
+</p></details>
+
+<details><summary>自然语言</summary><p>
+- [the open parallel corpus](https://opus.nlpl.eu/)：一个网络翻译文本集合，包含的语言种类和领域都非常多。
+- [Statistical Machine Translation](Statistical Machine Translation)：国际机器翻译大赛，每年都会放出很多较为权威的数据集，使用广泛，认可度高。但局限是内容几乎都是新闻领域，语系较多是印欧系语言。
+</p></details>
 ## 其他工具
 
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
@@ -95,6 +109,7 @@ Awesome research tools!!!
 - 信息传播（影响传播）预测：[Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)、[Paper List of Deep Learning-based Information Diffusion Modeling](https://github.com/ChenNed/Awesome-DL-Information-Cascades-Modleing)。
 - 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
 - 图表示学习（图嵌入）：[Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)、[awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)、[Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)。
+- 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
 
 ## Conference List
 
