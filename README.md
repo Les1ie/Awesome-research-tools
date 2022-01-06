@@ -56,7 +56,7 @@ Awesome research tools!!!
 
 ### NLP
 
-- [transformers](https://huggingface.co/docs/transformers/index)：预训练的 Transformers、BERT 等模型，直接调用，基于 Pytorch。
+- [transformers](https://huggingface.co/docs/transformers/index)：可直接调用预训练的 Transformers、BERT 等模型，基于 Pytorch。
 
 ### GNN
 
