@@ -87,8 +87,8 @@ Awesome research tools!!!
 
 <details><summary>自然语言</summary><p>
 
-+ [the open parallel corpus](https://opus.nlpl.eu/)：一个网络翻译文本集合，包含的语言种类和领域都非常多。
-+ [Statistical Machine Translation](Statistical Machine Translation)：国际机器翻译大赛，每年都会放出很多较为权威的数据集，使用广泛，认可度高。但局限是内容几乎都是新闻领域，语系较多是印欧系语言。
+- [the open parallel corpus](https://opus.nlpl.eu/)：一个网络翻译文本集合，包含的语言种类和领域都非常多。
+- [Statistical Machine Translation](https://www.statmt.org/)：国际机器翻译大赛，每年都会放出很多较为权威的数据集，使用广泛，认可度高。但局限是内容几乎都是新闻领域，语系较多是印欧系语言。
 
 </p></details>
 
