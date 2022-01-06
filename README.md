@@ -1,11 +1,14 @@
 # Awesome-research-tools
 Awesome research tools!!!
 
+欢迎结合自己的研究方向提 PR、Issue。
+
+如果有长期缺乏维护的 paper list、library 或失效的链接、网站，敬请告知。
+
 ## 阅读、写作
 
 ### 翻译
 
-- [百度翻译](http://fanyi.baidu.com)、[谷歌翻译](https://translate.google.com/)：懂的都懂。
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
 
@@ -18,12 +21,12 @@ Awesome research tools!!!
 
 ### 英文例句
 
-- [linguee](https://cn.linguee.com)：DeepL公司出品的例句搜索，支持中文搜英文。
+- [linguee](https://cn.linguee.com)：DeepL 公司出品的例句搜索，支持中文搜英文。
 - [linggle](https://linggle.com/)：英文搜英文，能搜到某个短语的使用数量和比例，有时候访问不上。
 
 ### 其他
 
-- [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词搜索相近意思的英文词。
+- [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 
 ### 数学公式
@@ -69,8 +72,8 @@ Awesome research tools!!!
 
 ## 其他工具
 
-- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与RGB表示。
-- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具。
+- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
+- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
 - [paperswithcode](https://paperswithcode.com/)：论文代码查找。
 - [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
@@ -100,4 +103,4 @@ Awesome research tools!!!
 ## 热知识
 
 - Overleaf 的会员功能（无限制的历史记录非常好用）可以通过邀请指定数量的新用户解锁，在某购物平台上可以低价解锁。
-- [谷歌学术](https://scholar.google.com/)搜索到的论文清单中，直接点击论文左下方的` 引用`-`BibTex`可获得论文的 Bib 格式引用。
+- [谷歌学术](https://scholar.google.com/)搜索到的论文清单中，直接点击论文左下方的`引用`-`BibTex`可获得论文的 Bib 格式引用。
