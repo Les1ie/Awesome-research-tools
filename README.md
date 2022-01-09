@@ -67,7 +67,7 @@ Awesome research tools!!!
 ### GNN
 
 - [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch。
-- [PyG]()：深度图神经网络库，支持异构图，仅支持 PyTorch。
+- [pytorch_geometric]()、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同类型的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow。
 
 ## 开放数据集
 
