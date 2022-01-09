@@ -100,7 +100,6 @@ Awesome research tools!!!
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
-- [paperswithcode](https://paperswithcode.com/)：论文代码查找。
 - [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
 - [connected papers](https://www.connectedpapers.com/)：找引文。
 
@@ -108,7 +107,7 @@ Awesome research tools!!!
 
 **综合论文列表**
 
-- [Paper with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
+- [Papers with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
 
 <details><summary><strong>按研究方向</strong></summary><p>
 
