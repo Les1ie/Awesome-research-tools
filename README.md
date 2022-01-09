@@ -106,20 +106,22 @@ Awesome research tools!!!
 
 ## Paper List
 
-**综合论文列表**：
+**综合论文列表**
 
 - [Paper with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
 
-**按研究方向**：
+<details><summary><strong>按研究方向</strong></summary><p>
 
 - 图强化学习：[Graph Reinforcement Learning Papers](https://github.com/SunQingYun1996/Graph-Reinforcement-Learning-Papers)。
 - GNN：[Must-read papers on GNN](https://github.com/thunlp/GNNPapers)。
-- 信息传播（影响传播）预测：[Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)、[Paper List of Deep Learning-based Information Diffusion Modeling](https://github.com/ChenNed/Awesome-DL-Information-Cascades-Modleing)。
-- 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
 - 图表示学习（图嵌入）：[Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)、[awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)、[Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)。
-- 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
+- 信息传播（影响传播）预测：[Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)、[Paper List of Deep Learning-based Information Diffusion Modeling](https://github.com/ChenNed/Awesome-DL-Information-Cascades-Modleing)。
 - 社交网络影响力最大化：[awesome-influence-maximization-papers](https://github.com/geopanag/awesome-influence-maximization-papers)。
+- 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
+- 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
 - 知识蒸馏：[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+
+</p></details>
 
 ## Conference List
 
