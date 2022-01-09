@@ -123,7 +123,7 @@ Awesome research tools!!!
 
 </p></details>
 
-## Conference List
+## Conference/Journal List
 
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
 - [Top Computer Science Conferences](https://research.com/conference-rankings/computer-science)：计算机各个领域顶会会议列表及其会议时间、地点、截稿时间和影响因子。
