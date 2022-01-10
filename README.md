@@ -119,6 +119,9 @@ Awesome research tools!!!
 - 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
 - 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
 - 知识蒸馏：[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- 图自监督学习：[Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
+- 自监督学习：[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+- 图对比学习框架：[PyGCL](https://github.com/GraphCL/PyGCL)
 
 </p></details>
 
