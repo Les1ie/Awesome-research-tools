@@ -45,7 +45,7 @@ Awesome research tools!!!
 - [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 - [plotly](https://plotly.com/)：支持在浏览器中进行交互的绘图库，交互体验更好。
 - [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
-- [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具。
+- [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
 
 ## 深度学习
 
