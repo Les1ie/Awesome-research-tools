@@ -26,16 +26,17 @@ Awesome research tools!!!
 - [linguee](https://cn.linguee.com)：DeepL 公司出品的例句搜索，支持中文搜英文。
 - [linggle](https://linggle.com/)：英文搜英文，能搜到某个短语的使用数量和比例，有时候访问不上。
 
-### 其他
-
-- [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
-- [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
-
 ### 数学公式
 
 - [AxMath](https://www.amyxun.com/)：便宜好用的国产公式编辑器，按设备永久认证，MathType 的平替（不付费虽然功能受限，但也基本够用）。
 - [MathPix](https://mathpix.com/)：公式识别工具，可以使用桌面版进行快捷识别，但是每个月有次数限制（教育邮箱50次/月，其他20次/月，收费订阅可以提高数量限制），使用教育邮箱注册且只识别复杂公式的话是基本够用的。
 - [latexlive公式编辑器](https://www.latexlive.com/home)：网页版的 LaTeX 公式编辑器，支持拖拽、上传、剪切板粘贴进行图片识别，支持 Physics、Mhchem 等拓展。
+
+### 其他
+
+- [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
+- [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
+- [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
 
 ## 绘图、数据可视化
 
@@ -119,10 +120,10 @@ Awesome research tools!!!
 - 社交网络影响力最大化：[awesome-influence-maximization-papers](https://github.com/geopanag/awesome-influence-maximization-papers)。
 - 推荐系统：[Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)。
 - 机器翻译：[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)。
-- 知识蒸馏：[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-- 图自监督学习：[Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
-- 自监督学习：[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
-- 图对比学习框架：[PyGCL](https://github.com/GraphCL/PyGCL)
+- 知识蒸馏：[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)。
+- 图自监督学习：[Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)。
+- 自监督学习：[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)。
+- 图对比学习框架：[PyGCL](https://github.com/GraphCL/PyGCL)。
 
 </p></details>
 
@@ -132,9 +133,9 @@ Awesome research tools!!!
 - [Top Computer Science Conferences](https://research.com/conference-rankings/computer-science)：计算机各个领域顶会会议列表及其会议时间、地点、截稿时间和影响因子。
 - [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
 - [Call4Papers](http://123.57.137.208/ccf/ccf-1.jsp)：CCF 推荐列表截稿日期。
-- [scirev](https://scirev.org/reviews/nature-communications/?author_id=34152743&event_source=timeline&source=timeline&dt_dapp=1)：sci 审稿数据统计网站。
+- [scirev](https://scirev.org/reviews/nature-communications/?author_id=34152743&event_source=timeline&source=timeline&dt_dapp=1)：SCI 审稿数据统计网站。
 
 ## 热知识
 
 - Overleaf 的会员功能（无限制的历史记录非常好用）可以通过邀请指定数量的新用户解锁，在某购物平台上可以低价解锁。
-- [谷歌学术](https://scholar.google.com/)搜索到的论文清单中，直接点击论文左下方的`引用`-`BibTex`可获得论文的 Bib 格式引用。
+- [谷歌学术](https://scholar.google.com/)搜索到的论文清单中，直接点击论文左下方的`引用`-`BibTex`可获得精简的论文 Bib 格式引用。
