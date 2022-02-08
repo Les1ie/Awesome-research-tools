@@ -25,7 +25,7 @@ Awesome research tools!!!
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 
 
-</p></detials>
+</p></details>
 
 ### 英文例句
 
