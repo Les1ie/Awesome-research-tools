@@ -16,10 +16,16 @@ Awesome research tools!!!
 
 ### 语法检查
 
-- [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
 - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
+
+<details><summary>more</summary><p>
+
+- [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
+
+
+</p></detials>
 
 ### 英文例句
 
@@ -43,11 +49,17 @@ Awesome research tools!!!
 > 不同库的比较可以参考 https://anvil.works/blog/plotting-in-matplotlib 。
 
 - [matplotlib](https://matplotlib.org/)：基础的 Python 绘图库。
-- [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 - [plotly](https://plotly.com/)：支持在浏览器中进行交互的绘图库，交互体验更好。
-- [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
 - [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
+
+<details><summary>more</summary><p>
+
+- [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
+- [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
 - [cmaps](https://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml)：包含各种 color map 的 Python 包，需要`pip install cmaps`，与 matplotlib 兼容。
+
+
+</p></details>
 
 ## 深度学习
 
@@ -99,11 +111,17 @@ Awesome research tools!!!
 
 ## 其他工具
 
-- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
-- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
 - [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
 - [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
 - [connected papers](https://www.connectedpapers.com/)：找引文。
+
+<details><summary>more</summary><p>
+
+- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
+- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
+
+
+</p></details>
 
 ## Paper List
 
@@ -129,11 +147,17 @@ Awesome research tools!!!
 
 ## Conference/Journal List
 
-- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
 - [Top Computer Science Conferences](https://research.com/conference-rankings/computer-science)：计算机各个领域顶会会议列表及其会议时间、地点、截稿时间和影响因子。
-- [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
 - [Call4Papers](http://123.57.137.208/ccf/ccf-1.jsp)：CCF 推荐列表截稿日期。
 - [scirev](https://scirev.org/reviews/nature-communications/?author_id=34152743&event_source=timeline&source=timeline&dt_dapp=1)：SCI 审稿数据统计网站。
+
+<details><summary>more</summary><p>
+
+- [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
+
+
+</p></details>
 
 ## 热知识
 
