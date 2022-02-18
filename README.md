@@ -89,6 +89,7 @@ Awesome research tools!!!
 
 - [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
 - [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter 相关的数据集列表。
+- [UCI](https://archive.ics.uci.edu/ml/datasets.php)：机器学习数据集仓库。（[beta版](https://archive-beta.ics.uci.edu/)）
 
 **按数据类别、研究方向**
 
