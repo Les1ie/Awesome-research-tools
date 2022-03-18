@@ -119,6 +119,8 @@ Awesome research tools!!!
 
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
+- [iconfont](https://www.iconfont.cn/)：阿里出品的图标库，有着丰富的图片和矢量格式的图标，可用于绘图、PPT制作等，目前免费。
+- [GeoGebra - 数学教学软件](https://www.geogebra.org/)：简单好用的科研数学绘图工具，支持2D、3D的散点、几何、公式等绘制，但是有时候访问较慢。
 
 
 </p></details>
