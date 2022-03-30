@@ -8,11 +8,25 @@ Awesome research tools!!!
 
 ## 阅读、写作
 
+### 文献管理
+
+- [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。
+- [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
+- [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
+
+<details><summary>more</summary><p>
+
+- [papers](https://www.papersapp.com/)：待补充完善。
+- [mendeley](https://www.mendeley.com/)：待补充完善。
+
+</p></details>
+
 ### 翻译
 
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
-- [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
+
+  
 
 ### 语法检查
 
@@ -89,7 +103,6 @@ Awesome research tools!!!
 
 - [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
 - [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter 相关的数据集列表。
-- [UCI](https://archive.ics.uci.edu/ml/datasets.php)：机器学习数据集仓库。（[beta版](https://archive-beta.ics.uci.edu/)）
 
 **按数据类别、研究方向**
 
