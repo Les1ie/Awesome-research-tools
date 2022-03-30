@@ -26,7 +26,6 @@ Awesome research tools!!!
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
 
-  
 
 ### 语法检查
 
