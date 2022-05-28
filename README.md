@@ -61,7 +61,7 @@ Awesome research tools!!!
 
 ### 独立软件、工具
 - [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
-- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以购买2016、2019等买断使用。
+- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
 - [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，但是可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
 
 <details><summary>more</summary><p>
@@ -78,6 +78,7 @@ Awesome research tools!!!
 - [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 
 <details><summary>more</summary><p>
+
 - [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
 - [cmaps](https://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml)：包含各种 color map 的 Python 包，需要`pip install cmaps`，与 matplotlib 兼容。
 
