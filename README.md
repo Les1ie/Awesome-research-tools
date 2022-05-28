@@ -21,23 +21,22 @@ Awesome research tools!!!
 
 </p></details>
 
-### 翻译
+### 阅读、翻译
 
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
-- [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色）
 
 
-### 语法检查
+### 语法检查、优化
 
 - [grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
-- [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
+- [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
 - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
 
 <details><summary>more</summary><p>
 
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
-
+- [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
 
 </p></details>
 
@@ -60,18 +59,34 @@ Awesome research tools!!!
 
 ## 绘图、数据可视化
 
+### 独立软件、工具
+- [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
+- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以购买2016、2019等买断使用。
+- [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，但是可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
+
+<details><summary>more</summary><p>
+
+- [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
+
+</p></details>
+
+### Python 
 > 不同库的比较可以参考 https://anvil.works/blog/plotting-in-matplotlib 。
 
 - [matplotlib](https://matplotlib.org/)：基础的 Python 绘图库。
 - [plotly](https://plotly.com/)：支持在浏览器中进行交互的绘图库，交互体验更好。
-- [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
+- [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 
 <details><summary>more</summary><p>
-
-- [seaborn](https://seaborn.pydata.org/)：基于 matplotlib 的绘图库，有着更好看的配色和更简洁的接口。
 - [pyecharts](https://pyecharts.org/)：基于百度前端图表库 echarts 的 Python 绘图库，可使用浏览器进行交互。
 - [cmaps](https://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml)：包含各种 color map 的 Python 包，需要`pip install cmaps`，与 matplotlib 兼容。
 
+</p></details>
+
+### Matlab
+- [FigureBest](https://www.bilibili.com/read/cv10958513)：一款基于MATLAB GUI的数据图自动美化软件，从介绍来看功能是比较丰富的，目前需要关注公众号啥的才能获取下载。
+
+<details><summary>more</summary><p>
 
 </p></details>
 
@@ -84,7 +99,7 @@ Awesome research tools!!!
 ### 优化
 
 - [optuna](optuna.org)：超参数优化框架，用于自动化超参数搜索，不依赖于具体使用的深度学习框架。
-- [Ax](https://ax.dev/)：调参，基于 Pytorch。
+- [Ax](https://ax.dev/)：基于 Pytorch 的超参数搜索框架，可简单绘制超参数分析。
 
 ### NLP
 
@@ -95,7 +110,7 @@ Awesome research tools!!!
 ### GNN
 
 - [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch。
-- [pytorch_geometric]()、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同类型的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow。
+- [pytorch_geometric](https://www.pyg.org)、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同风格的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow。
 
 ## 开放数据集
 
