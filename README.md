@@ -62,7 +62,7 @@ Awesome research tools!!!
 ### 独立软件、工具
 - [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
 - [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
-- [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，但是可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
+- [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
 
 <details><summary>more</summary><p>
 
