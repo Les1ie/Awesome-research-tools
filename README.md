@@ -56,6 +56,7 @@ Awesome research tools!!!
 - [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 - [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
+- [PAPER DIGEST](https://www.paperdigest.org/)：总结科研课题研究进展。分 Literature Review（相关综述）和Literature Search（贡献值排序的相关文献）。
 
 ## 绘图、数据可视化
 
