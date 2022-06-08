@@ -6,7 +6,7 @@ Awesome research tools!!!
 
 如果有长期缺乏维护的 paper list、library 或失效的链接、网站，敬请告知。
 
-## 阅读、写作
+## 阅读、笔记、写作
 
 ### 文献管理
 
@@ -51,6 +51,19 @@ Awesome research tools!!!
 - [AxMath](https://www.amyxun.com/)：便宜好用的国产公式编辑器，按设备永久认证，MathType 的平替（不付费虽然功能受限，但也基本够用）。
 - [MathPix](https://mathpix.com/)：公式识别工具，可以使用桌面版进行快捷识别，但是每个月有次数限制（教育邮箱50次/月，其他20次/月，收费订阅可以提高数量限制），使用教育邮箱注册且只识别复杂公式的话是基本够用的。
 - [latexlive公式编辑器](https://www.latexlive.com/home)：网页版的 LaTeX 公式编辑器，支持拖拽、上传、剪切板粘贴进行图片识别，支持 Physics、Mhchem 等拓展。
+
+
+### 笔记
+
+- [Gridea]()：待完善
+- [语雀]()：待完善
+- [typora]()：待完善
+ 
+<details><summary>more</summary><p>
+
+- [Github Page]()：待完善
+
+</p></details>
 
 ### 其他
 
