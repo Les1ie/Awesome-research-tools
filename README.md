@@ -13,11 +13,11 @@ Awesome research tools!!!
 - [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。
 - [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
 - [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
+- [mendeley](https://www.mendeley.com/)：Elsevier旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
 
 <details><summary>more</summary><p>
 
 - [papers](https://www.papersapp.com/)：待补充完善。
-- [mendeley](https://www.mendeley.com/)：待补充完善。
 
 </p></details>
 
@@ -58,6 +58,7 @@ Awesome research tools!!!
 - [Gridea]()：待完善
 - [语雀]()：待完善
 - [typora]()：待完善
+- [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如Google Drive、微云同步盘、百度网盘等。
  
 <details><summary>more</summary><p>
 
@@ -78,6 +79,7 @@ Awesome research tools!!!
 - [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
 - [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
 - [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
+- [Omni Graffle](https://www.omnigroup.com/omnigraffle): 苹果平台专有的老牌绘图软件，功能强大，需要付费购买，学生党可以使用你懂得方法。
 
 <details><summary>more</summary><p>
 
