@@ -55,9 +55,9 @@ Awesome research tools!!!
 
 ### 笔记
 
-- [Gridea]()：待完善
-- [语雀]()：待完善
-- [typora]()：待完善
+- [Gridea](https://gridea.dev/)：待完善
+- [语雀](https://www.yuque.com/)：阿里知识库创建平台，可以在线创建知识库，自动在线同步，写笔记较为好用，markdown格式，功能丰富，免费。
+- [typora](https://typoraio.cn/)：免费的轻简化markdown笔记软件（现在有付费了，但总有办法让它free）。
 - [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如Google Drive、微云同步盘、百度网盘等。
  
 <details><summary>more</summary><p>
