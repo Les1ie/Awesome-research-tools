@@ -6,19 +6,21 @@ Awesome research tools!!!
 
 如果有长期缺乏维护的 paper list、library 或失效的链接、网站，敬请告知。
 
+精简起见，每类仅展示三个，其他的如无必要默认折叠。
+
 ## 阅读、笔记、写作
 
 ### 文献管理
 
 - [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。
-- [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
 - [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
 - [mendeley](https://www.mendeley.com/)：Elsevier旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
 
 <details><summary>more</summary><p>
 
+- [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
 - [papers](https://www.papersapp.com/)：待补充完善。
-
+ 
 </p></details>
 
 ### 阅读、翻译
@@ -55,13 +57,13 @@ Awesome research tools!!!
 
 ### 笔记
 
-- [Gridea](https://gridea.dev/)：待完善
 - [语雀](https://www.yuque.com/)：阿里知识库创建平台，可以在线创建知识库，自动在线同步，写笔记较为好用，markdown格式，功能丰富，免费。
 - [typora](https://typoraio.cn/)：免费的轻简化markdown笔记软件（现在有付费了，但总有办法让它free）。
 - [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如Google Drive、微云同步盘、百度网盘等。
  
 <details><summary>more</summary><p>
 
+- [Gridea](https://gridea.dev/)：待完善
 - [Github Page]()：待完善
 
 </p></details>
@@ -70,19 +72,24 @@ Awesome research tools!!!
 
 - [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
-- [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
 - [PAPER DIGEST](https://www.paperdigest.org/)：总结科研课题研究进展。分 Literature Review（相关综述）和Literature Search（贡献值排序的相关文献）。
+
+<details><summary>more</summary><p>
+
+- [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
+ 
+</p></details>
 
 ## 绘图、数据可视化
 
 ### 独立软件、工具
 - [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
-- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
 - [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
 - [Omni Graffle](https://www.omnigroup.com/omnigraffle): 苹果平台专有的老牌绘图软件，功能强大，需要付费购买，学生党可以使用你懂得方法。
 
 <details><summary>more</summary><p>
 
+- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
 - [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
 
 </p></details>
