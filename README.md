@@ -29,7 +29,7 @@ Awesome research tools!!!
 
 ### 语法检查、优化
 
-- [grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
+- [Grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
 - [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
 - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
 
@@ -58,7 +58,7 @@ Awesome research tools!!!
 - [Gridea]()：待完善
 - [语雀]()：待完善
 - [typora]()：待完善
- 
+
 <details><summary>more</summary><p>
 
 - [Github Page]()：待完善
@@ -210,3 +210,5 @@ Awesome research tools!!!
 
 - Overleaf 的会员功能（无限制的历史记录非常好用）可以通过邀请指定数量的新用户解锁，在某购物平台上可以低价解锁。
 - [谷歌学术](https://scholar.google.com/)搜索到的论文清单中，直接点击论文左下方的`引用`-`BibTex`可获得精简的论文 Bib 格式引用。
+- Grammarly 可以在某购物平台上以非常亲民的价格购买周、月的会员，性价比很高。
+- [JetBrains](https://jetbrains.com) 的系列开发工具（如 IDEA、PyCharm 等）均可通过学生认证免费使用正版软件，一次认证可以管一年，到期了再更新认证信息即可。
