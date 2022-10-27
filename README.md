@@ -179,6 +179,9 @@ Awesome research tools!!!
 
 </p></details>
 
+## 绘图
+[深度学习绘图资源](resource/template.pptx)，来自[这里](https://github.com/dair-ai/ml-visuals)
+
 ## Paper List
 
 **综合论文列表**
