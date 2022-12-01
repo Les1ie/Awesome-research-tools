@@ -20,16 +20,15 @@ Awesome research tools!!!
 
 - [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
 - [papers](https://www.papersapp.com/)：待补充完善。
- 
+
 </p></details>
 
-### 阅读、翻译
+### 阅读与翻译
 
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
 
-
-### 语法检查、优化
+### 写作检查与优化
 
 - [Grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
 - [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
@@ -43,10 +42,11 @@ Awesome research tools!!!
 
 </p></details>
 
-### 英文例句
+### 写作参考
 
 - [linguee](https://cn.linguee.com)：DeepL 公司出品的例句搜索，支持中文搜英文。
 - [linggle](https://linggle.com/)：英文搜英文，能搜到某个短语的使用数量和比例，有时候访问不上。
+- [ACADEMIC AND PROFESSIONAL WRITING](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/)：如何写好一篇学术论文（右边菜单栏-Research Papers）。
 
 ### 数学公式
 
@@ -60,7 +60,7 @@ Awesome research tools!!!
 - [语雀](https://www.yuque.com/)：阿里知识库创建平台，可以在线创建知识库，自动在线同步，写笔记较为好用，markdown格式，功能丰富，免费。
 - [typora](https://typoraio.cn/)：免费的轻简化markdown笔记软件（现在有付费了，但总有办法让它free）。
 - [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如Google Drive、微云同步盘、百度网盘等。
- 
+
 <details><summary>more</summary><p>
 
 - [Gridea](https://gridea.dev/)：待完善
@@ -77,7 +77,7 @@ Awesome research tools!!!
 <details><summary>more</summary><p>
 
 - [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
- 
+
 </p></details>
 
 ## 绘图、数据可视化
