@@ -27,6 +27,7 @@ Awesome research tools!!!
 
 - [DeepL翻译器](https://www.deepl.com/translator)：有时候比谷歌、百度的翻译更为智能一些。
 - [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa)：带划词翻译的 PDF 阅读器，免费，可自己选择调用的翻译接口（百度、谷歌等），在阅读英文文献时非常好用。
+- [arxiv-vanity](https://www.arxiv-vanity.com/)：以网页打开arXiv上的论文，方便快速阅读和翻译（有些论文会出现排版问题）。
 
 ### 写作检查与优化
 
@@ -63,14 +64,16 @@ Awesome research tools!!!
 
 <details><summary>more</summary><p>
 
-- [Gridea](https://gridea.dev/)：待完善
+- [Obsidian](https://obsidian.md/)：基于Markdown格式的本地知识管理工具，功能多样且有丰富的插件和中文文档支持，官方提供的在线发布和同步功能收费，其他功能全部免费，建议搭配Google Drive等云存储使用。
+- [Gridea](https://gridea.dev/)：一款支持Markdown语法的博客工具。
 - [Github Page]()：待完善
 
 </p></details>
 
 ### 其他
 
-- [万词王](https://wantwords.thunlp.org/)：反向词典功能非常好用，能根据一个中文词按照词性、长度、首字母等检索相近意思的英文词。
+- [万词王](https://wantwords.thunlp.org/)：中英文反向词典，根据一个中/英文词按照词性、长度、首字母等检索相近意思的中/英文词，可用于中、英论文的写作。
+- [据意查句](https://wantquotes.net/)：万词王团队另一款作品，根据输入的句意从古今中外的各类文学创作中查找相似意思的句子。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 - [PAPER DIGEST](https://www.paperdigest.org/)：总结科研课题研究进展。分 Literature Review（相关综述）和Literature Search（贡献值排序的相关文献）。
 
@@ -84,14 +87,15 @@ Awesome research tools!!!
 
 ### 独立软件、工具
 - [AxGlyph](https://www.amyxun.com/)：和AxMath同厂，平价国产精品绘图软件，支持大部分流程图、设计图、数据图的绘制，按设备收费认证。
-- [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
+- [OriginLab](https://www.originlab.com/)：科研绘图软件，用于绘制数据统计分析图，支持学生认证免费使用。
 - [Omni Graffle](https://www.omnigroup.com/omnigraffle): 苹果平台专有的老牌绘图软件，功能强大，需要付费购买，学生党可以使用你懂得方法。
 
 <details><summary>more</summary><p>
 
 - [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
 - [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
-
+- [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
+- 
 </p></details>
 
 ### Python 
@@ -114,6 +118,10 @@ Awesome research tools!!!
 <details><summary>more</summary><p>
 
 </p></details>
+
+
+### 资源
+- [深度学习绘图资源](resource/template.pptx)，来自[这里](https://github.com/dair-ai/ml-visuals)
 
 ## 深度学习
 
@@ -162,26 +170,6 @@ Awesome research tools!!!
 </p></details>
 
 
-
-## 其他工具
-
-- [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
-- [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
-- [connected papers](https://www.connectedpapers.com/)：找引文。
-
-<details><summary>more</summary><p>
-
-- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
-- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
-- [iconfont](https://www.iconfont.cn/)：阿里出品的图标库，有着丰富的图片和矢量格式的图标，可用于绘图、PPT制作等，目前免费。
-- [GeoGebra - 数学教学软件](https://www.geogebra.org/)：简单好用的科研数学绘图工具，支持2D、3D的散点、几何、公式等绘制，但是有时候访问较慢。
-
-
-</p></details>
-
-## 绘图
-[深度学习绘图资源](resource/template.pptx)，来自[这里](https://github.com/dair-ai/ml-visuals)
-
 ## Paper List
 
 **综合论文列表**
@@ -214,6 +202,25 @@ Awesome research tools!!!
 
 - [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
+
+
+</p></details>
+
+
+## 其他工具
+
+- [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
+- [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
+- [connected papers](https://www.connectedpapers.com/)：找引文。
+
+<details><summary>more</summary><p>
+
+- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
+- [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
+- [iconfont](https://www.iconfont.cn/)：阿里出品的图标库，有着丰富的图片和矢量格式的图标，可用于绘图、PPT制作等，目前免费。
+- [GeoGebra - 数学教学软件](https://www.geogebra.org/)：简单好用的科研数学绘图工具，支持2D、3D的散点、几何、公式等绘制，但是有时候访问较慢。
+- [Anonymous GitHub](https://anonymous.4open.science/)：匿名Github，适用于在要求盲审的论文插入Github链接。
+- [OI Wiki](https://oi-wiki.org/)：信息学奥林匹克竞赛知识整合站点，可用于查找和学习一些常用的各类算法。
 
 
 </p></details>
