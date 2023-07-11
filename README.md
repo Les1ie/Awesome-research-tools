@@ -12,13 +12,14 @@ Awesome research tools!!!
 
 ### 文献管理
 
-- [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。
-- [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，非常全能的一款科研工具。
+- [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。可配合OneDirve等云盘使用。
+- [Read Paper](https://readpaper.com/)：多功能文献阅读器，除了基础的文献管理、笔记功能外，还有比较有特色论文搜索与学术讨论功能，无翻译功能。支持多客户端，需注册账号，目前（截止至2307）有200篇免费文献的云空间。
 - [mendeley](https://www.mendeley.com/)：Elsevier旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
 
 <details><summary>more</summary><p>
 
 - [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
+- [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，全能的一款科研工具。需注册账号，免费用户只有1G的网盘容量且翻译功能受限制，支持多客户端。
 - [papers](https://www.papersapp.com/)：待补充完善。
 
 </p></details>
@@ -123,6 +124,7 @@ Awesome research tools!!!
 ### 资源
 - [深度学习绘图资源](resource/template.pptx)，来自[这里](https://github.com/dair-ai/ml-visuals)
 
+
 ## 深度学习
 
 ### 通用
@@ -136,14 +138,24 @@ Awesome research tools!!!
 
 ### NLP
 
-- [transformers](https://huggingface.co/docs/transformers/index)：可直接调用预训练的 Transformers、BERT 等模型，基于 PyTorch。
+- [transformers](https://huggingface.co/docs/transformers/index)：Hugging Face 出品，可直接调用预训练的 Transformers、BERT 等模型，包含了 NLP 相关的完整 Pipeline（数据集与处理、模型搭建与优化、训练与评估），基于 PyTorch。
 - [SentenceTransformers](https://www.sbert.net)：Python 库，可以直接获得句子级嵌入，基于 PyTorch。
 - [fairseq](https://github.com/pytorch/fairseq)：PyTorch 团队开发的 seq2seq 库，实现了较多主流模型，可以用于机器翻译、摘要等任务训练。
 
 ### GNN
 
-- [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch。
-- [pytorch_geometric](https://www.pyg.org)、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同风格的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow。
+- [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch，实现了 GCN、GAT 等经典模型以及一些新论文的模型，自带部分经典图数据集（如 Karate Club dataset 等，使用时自动下载）。拥有中文用户指南。
+- [pytorch_geometric](https://www.pyg.org)、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同风格的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow，实现了GCN、GAT 等经典模型以及一些新论文的模型，自带部分经典图数据集（如 Karate Club dataset 等，使用时自动下载）。
+- [Neo4J](https://neo4j.com/)：图数据库，一个数据库实例就是一张大图，社区免费版只支持单个数据库实例。支持异构点和边，高效实现了各种经典的图算法（遍历、迭代、生成、查找、计算等），同时也支持经典的图机器学习算法（需安装 GDS 拓展包），拥有配套的可视化工具（Web端和客户端）。可用于存储大量的图数据、进行基础计算与分析、优化模型 IO。
+
+### CV
+
+- [Ultralytics](https://ultralytics.com/)：YOLOv8 的开发团队与论文作者，可直接调用预训练的 YOLOv5、YOLOv8 等模型，包含了 CV 相关的完整 Pipeline（数据集与处理、模型搭建与优化、训练与评估），基于 PyTorch。
+
+## 远程与服务器
+
+- [MobaXterm](https://mobaxterm.mobatek.net/)：集成了丰富功能的服务器连接软件，可以在一个软件内使用SSH终端、SFTP、X Server等功能。大部分功能可以免费使用，但有会话数量限制，支持插件。
+
 
 ## 开放数据集
 
@@ -209,12 +221,14 @@ Awesome research tools!!!
 
 ## 其他工具
 
-- [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
+- [那些免费的砖](https://www.thosefree.com/apps)：工具合集网站，收集了很多收费软件的平替。适合既不想花钱买正版、又不想花时间找资源的<del>白嫖党</del>同学，以及闲来无事时可以逛逛。
 - [CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=zh-CN)：Chrome 插件，论文源码。
 - [connected papers](https://www.connectedpapers.com/)：找引文。
 
 <details><summary>more</summary><p>
 
+- [如有乐享](https://51.ruyo.net/)：工具合集网站，包含技术、软件、服务器、网盘、域名、激活、数字优惠等相关的资源与工具（如[激活MobaXterm](https://51.ruyo.net/test/MobaXterm-Pro-License.html)）。网站有部分广告。
+- [菜鸟工具：正则表达式在线测试](https://c.runoob.com/front-end/854/)：菜鸟工具的正则表达式测试，能提供语法参考，简单好用。
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)：颜色的十六进制与 RGB 表示。
 - [Dir Tree Noter](https://dir.yardtea.cc/)：列出文件夹树形结构，比较方便的目录展示工具，在写源码或项目相关的材料时用得上。
 - [iconfont](https://www.iconfont.cn/)：阿里出品的图标库，有着丰富的图片和矢量格式的图标，可用于绘图、PPT制作等，目前免费。
