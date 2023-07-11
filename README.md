@@ -131,6 +131,11 @@ Awesome research tools!!!
 
 - [pytorch-lightning](https://www.pytorchlightning.ai/)：更为高级的 Pytorch 编程接口，能编写出更高质量、更简洁的 PyTorch 代码。
 
+### 日志
+- [TensorBoard](https://www.tensorflow.org/tensorboard)：TensorBoard 集成的日志可视化工具，也可以单独安装并搭配 PyTorch 使用。与 PyTorch-Lightning、Ultralytics 等均有集成。基于 Python。
+- [Comet](https://www.comet.ml/site/)：日志可视化工具，可用于训练到生产全过程的管理、可视化和优化。基于 Python。
+- [ClearML](https://www.clear.ml/)：开源的日志可视化工具，便于分享，更适合团队使用。基于 Python。
+
 ### 优化
 
 - [optuna](optuna.org)：超参数优化框架，用于自动化超参数搜索，不依赖于具体使用的深度学习框架。
