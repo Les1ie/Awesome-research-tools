@@ -13,12 +13,22 @@ Awesome research tools!!!
 ### 文献管理
 
 - [Zotero](https://zotero.org/)：免费、开源的文献管理软件，支持分组、标签、笔记、导出引文、云同步。可配合OneDirve等云盘使用。
+
+  <details><summary>推荐的 Zotero 插件</summary><p>
+
+  - [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)：pdf 划词翻译插件，文档完善，更新较频繁，支持 Zotero7，需要手动配置翻译 api。
+  - [zotero-style](https://github.com/MuiseDestiny/zotero-style)：zotero 界面增强插件，可以通过配置 easyscholar api 来实现 SCI/CCF 的查询和展示。
+  - [zotero-better-notes](https://github.com/windingwind/zotero-better-notes)：zotero 笔记增强插件，文档完善，更新较频繁，提供了双链笔记、同步导出、模板、从注释创建笔记等功能，方便和 Obsidian 等其他笔记软件联动。
+ 
+  </p></details>
+
+  
 - [Read Paper](https://readpaper.com/)：多功能文献阅读器，除了基础的文献管理、笔记功能外，还有比较有特色论文搜索与学术讨论功能，无翻译功能。支持多客户端，需注册账号，目前（截止至2307）有200篇免费文献的云空间。
-- [mendeley](https://www.mendeley.com/)：Elsevier旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
+- [mendeley](https://www.mendeley.com/)：Elsevier 旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
 
 <details><summary>more</summary><p>
 
-- [Juris-m](https://juris-m.github.io/)：基于开源的Zotero项目，有着更进一步的功能和对中文更好的支持。
+- [Juris-m](https://juris-m.github.io/)：基于开源的 Zotero 项目，有着更进一步的功能和对中文更好的支持。
 - [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，全能的一款科研工具。需注册账号，免费用户只有1G的网盘容量且翻译功能受限制，支持多客户端。
 - [papers](https://www.papersapp.com/)：待补充完善。
 
@@ -31,13 +41,13 @@ Awesome research tools!!!
 - [arxiv-vanity](https://www.arxiv-vanity.com/)：以网页打开arXiv上的论文，方便快速阅读和翻译（有些论文会出现排版问题）。
 
 ### 写作检查与优化
-
-- [Grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，付费订阅能提供更专业的建议。
-- [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
+- [DeepL Write](https://www.deepl.com/write)：DeepL 出品的写作优化工具，支持设置`学术`、`商业`、`技术`等写作风格，以及改写、更正两种模式，免费免登录。
+- [Grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，需要登录使用，付费订阅能提供更专业的建议。
 - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
 
 <details><summary>more</summary><p>
 
+- [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
 - [rewriter tools](https://rewritertools.com/)：免费的文章在线微调工具，支持重写、检查、优化等，可以尝试用于降重等场景。
@@ -60,8 +70,8 @@ Awesome research tools!!!
 ### 笔记
 
 - [语雀](https://www.yuque.com/)：阿里知识库创建平台，可以在线创建知识库，自动在线同步，写笔记较为好用，markdown格式，功能丰富，免费。
-- [typora](https://typoraio.cn/)：免费的轻简化markdown笔记软件（现在有付费了，但总有办法让它free）。
-- [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如Google Drive、微云同步盘、百度网盘等。
+- [Typora](https://typoraio.cn/)：免费的轻简化 markdown 笔记软件（现在有付费了，但总有办法让它free）。
+- [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如 Google Drive、微云同步盘、百度网盘等。
 
 <details><summary>more</summary><p>
 
@@ -93,8 +103,8 @@ Awesome research tools!!!
 
 <details><summary>more</summary><p>
 
-- [visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
-- [graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
+- [Visio](https://www.microsoft.com/zh-cn/microsoft-365/visio/flowchart-software)：微软的绘图办公套件，基础功能丰富，可通过Office 365订阅使用，也可以选择2016、2019等版本买断使用。
+- [Graphviz](https://graphviz.org/)：经典的结构图、流程图绘制工具，同时也有对应 [Python 库](https://graphviz.readthedocs.io/en/stable/index.html)可以方便地使用 Python 进行绘制。
 - [chart-studio](https://chart-studio.plotly.com//)：plotly 提供的在线数据图绘制网站，效果和功能不错，可以使用浏览器完成对规整数据的处理、绘制、导出，部分功能需要注册和收费。
 - 
 </p></details>
@@ -132,6 +142,7 @@ Awesome research tools!!!
 - [pytorch-lightning](https://www.pytorchlightning.ai/)：更为高级的 Pytorch 编程接口，能编写出更高质量、更简洁的 PyTorch 代码。
 
 ### 日志
+
 - [TensorBoard](https://www.tensorflow.org/tensorboard)：TensorBoard 集成的日志可视化工具，也可以单独安装并搭配 PyTorch 使用。与 PyTorch-Lightning、Ultralytics 等均有集成。基于 Python。
 - [Comet](https://www.comet.ml/site/)：日志可视化工具，可用于训练到生产全过程的管理、可视化和优化。基于 Python。
 - [ClearML](https://www.clear.ml/)：开源的日志可视化工具，便于分享，更适合团队使用。基于 Python。
@@ -156,12 +167,13 @@ Awesome research tools!!!
 ### CV
 
 - [Ultralytics](https://ultralytics.com/)：YOLOv8 的开发团队与论文作者，可直接调用预训练的 YOLOv5、YOLOv8 等模型，包含了 CV 相关的完整 Pipeline（数据集与处理、模型搭建与优化、训练与评估），基于 PyTorch。
+- [Open MMLab](https://openmmlab.com/codebase)：开放 CV 团队/社区，提供了通用的训练框架、模型、接口、工具箱，涉及 CV 研究中的 FewShot（少样本）、Flow（光流）、3D 等等领域。
 
 ## 远程与服务器
 
 - [MobaXterm](https://mobaxterm.mobatek.net/)：集成了丰富功能的服务器连接软件，可以在一个软件内使用SSH终端、SFTP、X Server等功能。大部分功能可以免费使用，但有会话数量限制，支持插件。
-
-
+- [XTerminal](https://www.xterminal.cn/)：国产的集成终端工具，功能类似 MobaXterm，界面更美观，支持各种皮肤（需要VIP）和终端风格，更新频繁，大部分功能可以免费使用。
+ 
 ## 开放数据集
 
 **综合数据集**
