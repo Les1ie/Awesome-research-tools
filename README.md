@@ -19,6 +19,8 @@ Awesome research tools!!!
   - [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)：pdf 划词翻译插件，文档完善，更新较频繁，支持 Zotero7，需要手动配置翻译 api。
   - [zotero-style](https://github.com/MuiseDestiny/zotero-style)：zotero 界面增强插件，可以通过配置 easyscholar api 来实现 SCI/CCF 的查询和展示。
   - [zotero-better-notes](https://github.com/windingwind/zotero-better-notes)：zotero 笔记增强插件，文档完善，更新较频繁，提供了双链笔记、同步导出、模板、从注释创建笔记等功能，方便和 Obsidian 等其他笔记软件联动。
+  - [arXiv Workflow for Zotero](https://github.com/AllanChain/zotero-arxiv-workflow)：arXiv 辅助插件，提供检索 DOI、更新/合并论文信息、arXiv 版本论文下载等功能。
+  - [Linter for Zotero](https://github.com/northword/zotero-format-metadata)：条目元数据规范化插件，可通过配置 [semantic scholar](https://www.semanticscholar.org/) api 来检索和更新已发表论文信息。
  
   </p></details>
 
@@ -82,9 +84,7 @@ Awesome research tools!!!
 </p></details>
 
 ### 其他
-
-- [万词王](https://wantwords.thunlp.org/)：中英文反向词典，根据一个中/英文词按照词性、长度、首字母等检索相近意思的中/英文词，可用于中、英论文的写作。
-- [据意查句](https://wantquotes.net/)：万词王团队另一款作品，根据输入的句意从古今中外的各类文学创作中查找相似意思的句子。
+- [深言达意](https://www.shenyandayi.com/)：[万词王](https://wantwords.thunlp.org/) 和 [据意查句](https://wantquotes.net/) 的官方整合版，中英文跨语言的词句检索工具。例如根据一个中/英文词按照词性、长度、首字母等检索相近意思的中/英文词，或根据输入的句意从古今中外的各类文学创作中查找相似意思的句子。可用于中、英论文写作时的遣词造句。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 - [PAPER DIGEST](https://www.paperdigest.org/)：总结科研课题研究进展。分 Literature Review（相关综述）和Literature Search（贡献值排序的相关文献）。
 
@@ -144,7 +144,7 @@ Awesome research tools!!!
 ### 日志
 
 - [TensorBoard](https://www.tensorflow.org/tensorboard)：TensorBoard 集成的日志可视化工具，也可以单独安装并搭配 PyTorch 使用。与 PyTorch-Lightning、Ultralytics 等均有集成。基于 Python。
-- [Comet](https://www.comet.ml/site/)：日志可视化工具，可用于训练到生产全过程的管理、可视化和优化。基于 Python。
+- [Comet](https://www.comet.ml/site/)：日志可视化工具，可用于训练到生产全过程的管理、可视化和优化。基于 Python。对于一些不方便开放 Tensorbard 端口的服务器可以尝试这个工具，将日志同步到 Comet 账号上，实现外网实时访问和分享。
 - [ClearML](https://www.clear.ml/)：开源的日志可视化工具，便于分享，更适合团队使用。基于 Python。
 
 ### 优化
@@ -198,6 +198,11 @@ Awesome research tools!!!
 
 </p></details>
 
+<details><summary>智慧城市</summary><p>
+
+- [LargeST](https://github.com/liuxu77/LargeST)：交通预测大规模数据集，github仓库中还实现了一众baseline。无论是作为领域入门还是用于方法评估都很不错。
+
+</p></details>
 
 ## Paper List
 
@@ -235,6 +240,19 @@ Awesome research tools!!!
 
 </p></details>
 
+## GPTs
+
+- [OpenAI-CharGPT](https://chatgpt.com/)：唯一真神？需要梯子，部分收费。
+- [Microsoft-Copilot/NewBing](https://copilot.microsoft.com/?showconv=1)：微软的GPT，优势部分内容基于必应的搜索引擎，能给出外部参考链接，因此幻觉**相对**较弱，内容**相对**可靠。
+- [Poe](https://poe.com/)：打包的各类 GPT。种类丰富：有免费也有收费、有绘图也有开发等等。
+- [学术 GPT 免费版](https://academic.chatwithpaper.org/)：免费的学术 GPT，支持处理arXiv和pdf的论文。有问答、翻译等功能。
+
+<details><summary>more</summary><p>
+
+- [百度-文心一言](https://yiyan.baidu.com/)：百度出品，免费。
+- [字节跳动-豆包](https://www.doubao.com/chat/)：字节跳动出品，免费，基本功能涵盖写作、总结、绘图等。
+
+</p></details>
 
 ## 其他工具
 
