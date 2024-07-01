@@ -17,3 +17,4 @@ summary: 其他可能有用的工具
 - [GeoGebra - 数学教学软件](https://www.geogebra.org/)：简单好用的科研数学绘图工具，支持2D、3D的散点、几何、公式等绘制，但是有时候访问较慢。
 - [Anonymous GitHub](https://anonymous.4open.science/)：匿名Github，适用于在要求盲审的论文插入Github链接。
 - [OI Wiki](https://oi-wiki.org/)：信息学奥林匹克竞赛知识整合站点，可用于查找和学习一些常用的各类算法。
+- [通义灵码](https://tongyi.aliyun.com/lingma/)：一款基于阿里云通义代码大模型打造的智能编码助手，在合理使用下可以提高Coding效率。
