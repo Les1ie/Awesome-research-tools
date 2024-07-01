@@ -20,7 +20,6 @@ summary: 文献的管理、阅读、笔记、写作
   
 - [Read Paper](https://readpaper.com/)：多功能文献阅读器，除了基础的文献管理、笔记功能外，还有比较有特色论文搜索与学术讨论功能，无翻译功能。支持多客户端，需注册账号，目前（截止至2307）有200篇免费文献的云空间。
 - [mendeley](https://www.mendeley.com/)：Elsevier 旗下老牌文献阅读、管理、云同步软件。目前建议下载老版本的[Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop)
-
 - [Juris-m](https://juris-m.github.io/)：基于开源的 Zotero 项目，有着更进一步的功能和对中文更好的支持。
 - [小绿鲸SCI阅读器](https://www.xljsci.com)：集成了 PDF 翻译、笔记、收藏语料、文献管理、云阅读等功能，全能的一款科研工具。需注册账号，免费用户只有1G的网盘容量且翻译功能受限制，支持多客户端。
 - [papers](https://www.papersapp.com/)：待补充完善。
@@ -36,7 +35,6 @@ summary: 文献的管理、阅读、笔记、写作
 - [DeepL Write](https://www.deepl.com/write)：DeepL 出品的写作优化工具，支持设置`学术`、`商业`、`技术`等写作风格，以及改写、更正两种模式，免费免登录。
 - [Grammarly](https://app.grammarly.com/)：能免费进行不限文本长度的语法检测，有单词替换建议等功能，需要登录使用，付费订阅能提供更专业的建议。
 - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)：VsCode 上的 Latex 语法插件，免费，适用于本地进行 LaTeX 写作与编译的情况。
-
 - [QuillBot](https://quillbot.com/)：重写和增强句子、段落或文章（润色），部分功能收费。
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
