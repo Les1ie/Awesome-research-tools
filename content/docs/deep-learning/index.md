@@ -31,7 +31,7 @@ summary: 深度学习相关工具
 
 - [DGL](https://www.dgl.ai/)：深度图神经网络库，支持异构图，支持 TensorFlow 和 PyTorch，实现了 GCN、GAT 等经典模型以及一些新论文的模型，自带部分经典图数据集（如 Karate Club dataset 等，使用时自动下载）。拥有中文用户指南。
 - [pytorch_geometric](https://www.pyg.org)、[tf_geometric](https://github.com/CrawlScript/tf_geometric)：相同风格的深度图神经网络库，支持异构图，分别支持 PyTorch 和 TensorFlow，实现了GCN、GAT 等经典模型以及一些新论文的模型，自带部分经典图数据集（如 Karate Club dataset 等，使用时自动下载）。
-- [PyGCL](https://github.com/GraphCL/PyGCL)：图对比学习框架
+- [PyGCL](https://github.com/GraphCL/PyGCL)：基于 PyTorch 的图对比学习框架。
 - [Neo4J](https://neo4j.com/)：图数据库，一个数据库实例就是一张大图，社区免费版只支持单个数据库实例。支持异构点和边，高效实现了各种经典的图算法（遍历、迭代、生成、查找、计算等），同时也支持经典的图机器学习算法（需安装 GDS 拓展包），拥有配套的可视化工具（Web端和客户端）。可用于存储大量的图数据、进行基础计算与分析、优化模型 IO。
 
 ## CV

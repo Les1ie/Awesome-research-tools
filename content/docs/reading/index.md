@@ -59,7 +59,7 @@ summary: 文献的管理、阅读、笔记、写作
 - [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如 Google Drive、微云同步盘、百度网盘等。
 - [Obsidian](https://obsidian.md/)：基于Markdown格式的本地知识管理工具，功能多样且有丰富的插件和中文文档支持，官方提供的在线发布和同步功能收费，其他功能全部免费，建议搭配Google Drive等云存储使用。
 - [Gridea](https://gridea.dev/)：一款支持Markdown语法的博客工具。
-- [Github Page](/#)：待完善
+- [Github Page](https://docs.github.com/zh/pages/getting-started-with-github-pages/creating-a-github-pages-site)：GitHub 官方提供支持的静态网站构建服务。可以使用 GitHub 仓库直接构建，不需要进行服务器管理，但是也只支持基本的静态网站，可定制设计样式，对于笔记、博客场景基本够用。
 
 ## 其他
 
