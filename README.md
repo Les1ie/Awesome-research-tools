@@ -21,3 +21,7 @@ A.R.T.，科研也可以是一种艺术。
 ## Change Log
 
 - 2024-07-01：使用hugo制作github page。
+
+## To Do
+
+- [ ] 设计并更新 logo 与主页背景图
