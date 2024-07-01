@@ -1,15 +1,9 @@
 <div align=center>
 
 # Awesome Research Tools
-<<<<<<< HEAD
+<p><a href="https://les1ie.github.io/Awesome-research-tools"><img src="https://img.shields.io/badge/ART-Awesome Research Tools-4beec5"/></a>
+</p>
 
-<a href="https://les1ie.github.io/Awesome-research-tools">
-<img src="https://img.shields.io/badge/ART-Awesome Research Tools-4beec5"/></a>
-
-=======
-<a href="https://les1ie.github.io/Awesome-research-tools"><img src="https://img.shields.io/badge/ART-Awesome Research Tools-4beec5"/></a>
-</br>
->>>>>>> 5f82187bfc16b0a0cb020b1c1f3db46f043c84ee
 <img src="static/images/ART.svg" width="100px" height="100px"/>
 
 A.R.T.，科研也可以是一种艺术。
