@@ -1,6 +1,7 @@
 <div align=center>
 
 # Awesome Research Tools
+
 <a href="https://les1ie.github.io/Awesome-research-tools">
 <img src="https://img.shields.io/badge/ART-Awesome Research Tools-4beec5"/></a>
 
@@ -40,4 +41,4 @@ A.R.T.，科研也可以是一种艺术。
 
 ## To Do
 
-- [ ] 设计并更新 logo 与主页背景图
+- [x] 设计并更新 logo 与主页背景图
