@@ -1,0 +1,60 @@
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+# languageCode = "zh-CN"  # 会出现排版问题
+languageCode = "en-us"
+title = "Awesome Research Tools"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tools"
+    url = "/docs/"
+    weight = 2
+
+[params]
+
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = 'Artistic Your Research'
+  homepage_intro = 'Awesome Research Tools is a collection of tools and resources to help you speed up and artistic your research.'
+  homepage_image = '/images/terminal.gif'
+
+  ## You can enable to add anchor links to header elements
+  enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Awesome Research Tools is a collection of tools and resources to help you speed up and artistic your research."
+    meta_og_title = "Awesome Research Tools"
+    meta_og_type = "website"
+    # meta_og_url = "https://hugo-whisper.netlify.app"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    # meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    # meta_twitter_card = "summary"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
+      # mobile = "/images/ART.png"
+      # standard  = "/images/ART.png"
+
+#  [params.footer]
+#    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
