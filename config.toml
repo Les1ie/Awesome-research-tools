@@ -39,7 +39,7 @@ summaryLength = 30
   homepage_button_link = './docs'
   homepage_button_text = 'Artistic Your Research'
   homepage_intro = 'Awesome Research Tools is a collection of tools and resources to help you speed up and artistic your research.'
-  homepage_image = './images/terminal.gif'
+  homepage_image = './images/desktop.jpeg'
 
   ## You can enable to add anchor links to header elements
   enable_anchor_link = true
@@ -56,10 +56,10 @@ summaryLength = 30
     # meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "./images/logo-mobile.svg"
-      standard  = "./images/logo.svg"
-      # mobile = "/images/ART.png"
-      # standard  = "/images/ART.png"
+      # mobile = "./images/logo-mobile.svg"
+      # standard  = "./images/logo.svg"
+      mobile = "/images/ART.svg"
+      standard  = "/images/ART.svg"
 
 #  [params.footer]
 #    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
