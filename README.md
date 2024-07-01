@@ -18,9 +18,17 @@ A.R.T.，科研也可以是一种艺术。
 
 项目主页的使用Hugo部署，见[HUGO-README.md](HUGO-README.md)。
 
+## Contribute
+
+- 最简单的贡献方法就是使用 Issue 来留言。
+- 如果想自己动手，主要步骤为：Fork → 编辑 Fork 的仓库 → 提交 Pull Request。
+
+  本项目中的主要内容均放置在[conent/docs]目录内，每一类工具页面的源码对应一个子目录内的`index.md`。
+  例如“阅读、笔记、写作”类工具的源码在[content/docs/reading/index.md](content/docs/reading/index.md)。
+
 ## Change Log
 
-- 2024-07-01：使用hugo制作github page。
+- 2024-07-01：使用 hugo 制作 github page。
 
 ## To Do
 
