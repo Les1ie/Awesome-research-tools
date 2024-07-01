@@ -28,6 +28,11 @@ summaryLength = 30
     url = "/docs/"
     weight = 2
 
+[[menu.main]]
+    name = "Source"
+    url = "https://github.com/Les1ie/Awesome-research-tools"
+    weight = 100
+
 [params]
 
   google_analytics_id=""
