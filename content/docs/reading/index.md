@@ -59,15 +59,13 @@ summary: 文献的管理、阅读、笔记、写作
 - [语雀](https://www.yuque.com/)：阿里知识库创建平台，可以在线创建知识库，自动在线同步，写笔记较为好用，markdown格式，功能丰富，免费。
 - [Typora](https://typoraio.cn/)：免费的轻简化 markdown 笔记软件（现在有付费了，但总有办法让它free）。
 - [VS Code](https://code.visualstudio.com/): 搭配云存储+本地同步，例如 Google Drive、微云同步盘、百度网盘等。
-
 - [Obsidian](https://obsidian.md/)：基于Markdown格式的本地知识管理工具，功能多样且有丰富的插件和中文文档支持，官方提供的在线发布和同步功能收费，其他功能全部免费，建议搭配Google Drive等云存储使用。
 - [Gridea](https://gridea.dev/)：一款支持Markdown语法的博客工具。
-- [Github Page](\#)：待完善
+- [Github Page](/#)：待完善
 
 ### 其他
 
 - [深言达意](https://www.shenyandayi.com/)：[万词王](https://wantwords.thunlp.org/) 和 [据意查句](https://wantquotes.net/) 的官方整合版，中英文跨语言的词句检索工具。例如根据一个中/英文词按照词性、长度、首字母等检索相近意思的中/英文词，或根据输入的句意从古今中外的各类文学创作中查找相似意思的句子。可用于中、英论文写作时的遣词造句。
 - [acronymify](http://acronymify.com/search?q)：给定关键词，对模型、算法等进行命名，非常好玩的一个工具。
 - [PAPER DIGEST](https://www.paperdigest.org/)：总结科研课题研究进展。分 Literature Review（相关综述）和Literature Search（贡献值排序的相关文献）。
-
 - [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf)：用于追踪版本修订的 Latex 包，能快速地使用增加、删除、高亮、替换、备注等标注，有自带的脚本接受所有修改并移除对应的标注代码，在 Overleaf 和 TexLive 中都是自带的不必额外安装。
