@@ -31,10 +31,10 @@ summaryLength = 30
 [params]
 
   google_analytics_id=""
-  homepage_button_link = '/docs/'
+  homepage_button_link = './docs'
   homepage_button_text = 'Artistic Your Research'
   homepage_intro = 'Awesome Research Tools is a collection of tools and resources to help you speed up and artistic your research.'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = './images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   enable_anchor_link = true
@@ -51,8 +51,8 @@ summaryLength = 30
     # meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "./images/logo-mobile.svg"
+      standard  = "./images/logo.svg"
       # mobile = "/images/ART.png"
       # standard  = "/images/ART.png"
 
