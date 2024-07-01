@@ -10,7 +10,7 @@ summary: 综合/按领域的优质文献清单推荐
 
 - [Papers with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
 
-## 按研究方向
+## 按技术领域分类
 
 ### 图强化学习
 
@@ -25,7 +25,21 @@ summary: 综合/按领域的优质文献清单推荐
 - [Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)
+
+### 知识蒸馏
+
+- [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+
+### 图自监督学习
+
+- [Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
   
+### 自监督学习
+
+- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+
+## 按应用/任务分类
+
 ### 信息传播（影响传播）预测
 
 - [Paper List of Information Diffusion Prediction](https://github.com/albertyang33/DiffusionPapers)
@@ -42,19 +56,3 @@ summary: 综合/按领域的优质文献清单推荐
 ### 机器翻译
 
 - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
-
-### 知识蒸馏
-
-- [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-
-### 图自监督学习
-
-- [Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
-  
-### 自监督学习
-
-- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
-  
-### 图对比学习框架
-
-- [PyGCL](https://github.com/GraphCL/PyGCL)
