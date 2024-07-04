@@ -25,6 +25,7 @@ summary: 综合的、按技术/应用分类的优质文献清单推荐
 - [Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)
+- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt)：汇聚最新的图提示相关研究工作，并从技术、应用领域等角度进行归纳整理。
 
 ### 知识蒸馏
 
