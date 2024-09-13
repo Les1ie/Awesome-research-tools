@@ -45,6 +45,7 @@ summary: 文献的管理、阅读、笔记、写作
 - [linguee](https://cn.linguee.com)：DeepL 公司出品的例句搜索，支持中文搜英文。
 - [linggle](https://linggle.com/)：英文搜英文，能搜到某个短语的使用数量和比例，有时候访问不上。
 - [ACADEMIC AND PROFESSIONAL WRITING](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/)：如何写好一篇学术论文（右边菜单栏-Research Papers）。
+- [Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)：有关论文写作的 tips、资源整理，对于初次使用 Latex 进行学术写作有帮助。
 
 ## 数学公式
 
