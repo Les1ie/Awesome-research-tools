@@ -10,6 +10,7 @@ summary: 按领域和类别整理的数据集
 
 - [AMiner](https://www.aminer.cn/data/?nav=openData)：包含涉及社交网络、学术网络、知识图谱、流行病等众多领域的数据集。
 - [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data)：Twitter 相关的数据集列表。
+- [OpenDataLab](https://opendatalab.com/)：主要针对大模型的开放数据集，中国大模型语料数据联盟开源数据服务指定平台。目前涉及的领域有NLP、图、CV、、多模态、时间序列、生物医学、物理等，种类比较丰富。
 
 ### 按数据类别、研究方向
 
