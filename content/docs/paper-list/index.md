@@ -8,33 +8,40 @@ summary: 综合的、按技术/应用分类的优质文献清单推荐
 
 ## 综合论文列表
 
-- [Papers with code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
+- [Papers With Code](https://paperswithcode.com/)：公开了源码的论文，涵盖多个领域。
+- [Paper Without Code](https://paperwithoutcode.com/)：通过使用 LLM 为经典和流行的 AI 论文提供原型实现。
 
 ## 按技术领域分类
 
-### 图强化学习
+### 图（Graph）
+
+#### 图强化学习
 
 - [Graph Reinforcement Learning Papers](https://github.com/SunQingYun1996/Graph-Reinforcement-Learning-Papers)
 
-### GNN
+#### GNN/GFM
 
 - [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+- [Awesome_Graph_Foundation_Models](https://github.com/CurryTang/Awesome_Graph_Foundation_Models)：图大模型汇总。
 
-### 图表示学习（图嵌入）
+#### 网络嵌入
 
 - [Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 - [Representation-Learning-on-Heterogeneous-Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)
+
+#### 图提示
+
 - [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt)：汇聚最新的图提示相关研究工作，并从技术、应用领域等角度进行归纳整理。
 
+#### 图自监督学习
+
+- [Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
+  
 ### 知识蒸馏
 
 - [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
-### 图自监督学习
-
-- [Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
-  
 ### 自监督学习
 
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
