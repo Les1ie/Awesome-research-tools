@@ -12,4 +12,4 @@ summary: 会议和期刊的综合信息清单
 - [scirev](https://scirev.org/reviews/nature-communications/?author_id=34152743&event_source=timeline&source=timeline&dt_dapp=1)：SCI 审稿数据统计网站。
 - [WIKICFP](http://www.wikicfp.com/cfp/)：WikiCFP is a [semantic wiki](http://en.wikipedia.org/wiki/Semantic_wiki) for Calls For Papers in science and technology fields.
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：关于AI会议的截稿时间汇总。
-- [csconfstats](https://csconfstats.xoveexu.com/)：计算机学科会议的接受率、投稿数等统计，可以帮助了解近年来会议投稿趋势。
+- [CS Conference Statistics](https://csconfstats.xoveexu.com/)：计算机学科会议的接受率、投稿数等统计，可以帮助了解近年来会议投稿趋势。还有有趣的[会议统计数据](https://csconfstats.xoveexu.com/fun-fact)。
