@@ -39,6 +39,7 @@ summary: 文献的管理、阅读、笔记、写作
 - [textranch](https://textranch.com/)：单次100词以内免费，能按照需求进行一部分定置。
 - [grammarcheck](https://www.nounplus.net/grammarcheck/)：免费，不限文本长度，但是很简单，只能进行一些基本的语法错误检测。
 - [rewriter tools](https://rewritertools.com/)：免费的文章在线微调工具，支持重写、检查、优化等，可以尝试用于降重等场景。
+- [Learnly AI](https://learnlyai.co.uk/)：面向学生的 AI 学术助手，支持智能笔记（从讲座、PDF、视频提取）、AI 论文写作（含文献综述与引用）以及 AI 演示文稿生成。
 
 ## 写作参考
 
