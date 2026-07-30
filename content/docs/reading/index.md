@@ -72,7 +72,7 @@ summary: 文献的管理、阅读、笔记、写作
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
 | [Obsidian](https://obsidian.md/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 基于 Markdown 的本地知识管理工具，功能丰富，插件众多，免费。 |
-| [Remio](https://remio.ai/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 本地优先 AI 记忆与知识库客户端，可解析文件、网页、录音、邮件、消息、图片和笔记，建立本地索引与向量，帮助研究者更快检索个人资料和上下文。 |
+| [Remio](https://remio.ai/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 本地优先 AI 记忆与知识库客户端，可解析文件、网页、录音、邮件、消息、图片和笔记，建立本地索引与向量，帮助研究者更快检索个人资料和上下文。免费版包含基础知识管理、本地文件解析、网页捕获和基础搜索；付费版主要提供更多 AI credits、高级模型、会议助手、BYOK 和更完整的跨设备同步。 |
 | [语雀](https://www.yuque.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 阿里知识库创建平台，支持 Markdown 格式，功能丰富，免费。 |
 | [Typora](https://typoraio.cn/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 免费轻简化 Markdown 笔记软件。 |
 | [VS Code](https://code.visualstudio.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 搭配云存储+本地同步使用。 |
@@ -87,4 +87,3 @@ summary: 文献的管理、阅读、笔记、写作
 | [acronymify](http://acronymify.com/search?q) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 给定关键词，对模型、算法等进行命名。 |
 | [PAPER DIGEST](https://www.paperdigest.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 总结科研课题研究进展，分综述和相关文献。 |
 | [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 用于追踪版本修订的 LaTeX 包，在 Overleaf 和 TexLive 中自带。 |
-
