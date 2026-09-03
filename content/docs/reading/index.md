@@ -84,6 +84,7 @@ summary: 文献的管理、阅读、笔记、写作
 | :--- | :--- | :--- |
 | [深言达意](https://www.shenyandayi.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 万词王和据意查句的官方整合版，中英文跨语言的词句检索工具。 |
 | [acronymify](http://acronymify.com/search?q) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 给定关键词，对模型、算法等进行命名。 |
+| [Acronym Generator](https://acronymgenerator.top) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 给定关键词，为论文、项目和研究组生成朗朗上口的缩写与反构词。 |
 | [PAPER DIGEST](https://www.paperdigest.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 总结科研课题研究进展，分综述和相关文献。 |
 | [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 用于追踪版本修订的 LaTeX 包，在 Overleaf 和 TexLive 中自带。 |
 
