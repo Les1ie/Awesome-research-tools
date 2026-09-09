@@ -44,6 +44,7 @@ summary: 文献的管理、阅读、笔记、写作
 | :--- | :--- | :--- |
 | [DeepL Write](https://www.deepl.com/write) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 写作优化工具，支持学术、商业、技术等写作风格，免费免登录。 |
 | [Grammarly](https://app.grammarly.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 免费语法检测，有单词替换建议，付费订阅提供更专业的建议。 |
+| [Articlo](https://getarticlo.com/sample-package) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Paid](https://img.shields.io/badge/Price-Paid-blueviolet) | 按一个受支持期刊的要求准备已有 Word 稿件，返回可编辑的 DOCX、修改摘要和作者检查清单；无需订阅。编辑内容和参考文献有效性仍需人工检查，可先查看示例包。 |
 | [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | VsCode 上的 LaTeX 语法插件，适用于本地 LaTeX 写作与编译。 |
 | [QuillBot](https://quillbot.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 重写和增强句子、段落或文章（润色），部分功能收费。 |
 | [rewriter tools](https://rewritertools.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 免费文章在线微调工具，支持重写、检查、优化等。 |
@@ -86,4 +87,3 @@ summary: 文献的管理、阅读、笔记、写作
 | [acronymify](http://acronymify.com/search?q) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 给定关键词，对模型、算法等进行命名。 |
 | [PAPER DIGEST](https://www.paperdigest.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 总结科研课题研究进展，分综述和相关文献。 |
 | [changes](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changes/changes.english.pdf) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 用于追踪版本修订的 LaTeX 包，在 Overleaf 和 TexLive 中自带。 |
-
