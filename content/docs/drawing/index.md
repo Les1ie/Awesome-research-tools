@@ -29,11 +29,11 @@ summary: 绘图与数据可视化工具
 
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
-| [matplotlib](https://matplotlib.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 基础 Python 绘图库。 |
-| [plotly](https://plotly.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 交互式绘图库，可在浏览器中使用。 |
-| [seaborn](https://seaborn.pydata.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 基于 matplotlib，配色好，接口简洁。 |
-| [pyecharts](https://pyecharts.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 基于 echarts 的 Python 绘图库，支持浏览器交互。 |
-| [cmaps](https://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 各类 colormap 包，可配合 matplotlib。 |
+| [matplotlib](https://matplotlib.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 基础 Python 绘图库。 |
+| [plotly](https://plotly.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 交互式绘图库，可在浏览器中使用。 |
+| [seaborn](https://seaborn.pydata.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 基于 matplotlib，配色好，接口简洁。 |
+| [pyecharts](https://pyecharts.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 基于 echarts 的 Python 绘图库，支持浏览器交互。 |
+| [cmaps](https://www.ncl.ucar.edu/Document/Graphics/color_table_gallery.shtml) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 各类 colormap 包，可配合 matplotlib。 |
 
 ## Matlab
 
@@ -45,4 +45,4 @@ summary: 绘图与数据可视化工具
 
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
-| [深度学习绘图资源](resource/template.pptx) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | PPT 模板资源，来源于 [ml-visuals](https://github.com/dair-ai/ml-visuals)。 |
+| [深度学习绘图资源](resource/template.pptx) | ![Stale](https://img.shields.io/badge/Status-Stale-yellow) ![Free](https://img.shields.io/badge/Price-Free-green) | PPT 模板资源，来源于 [ml-visuals](https://github.com/dair-ai/ml-visuals)。 |

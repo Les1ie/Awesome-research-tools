@@ -11,7 +11,7 @@ summary: 按类别和应用场景整理的各种AI工具
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
 | [DeepSeek](https://chat.deepseek.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 国产天花板之一，R1 模型简单好用，可能有网络连接问题。 |
-| [字节跳动-豆包](https://www.doubao.com/chat/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 字节出品，写作、总结、绘图等基础功能免费。 |
+| [字节跳动-豆包](https://www.doubao.com/chat/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 字节出品，写作、总结、绘图等基础功能免费。 |
 | [OpenAI-ChatGPT](https://chatgpt.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 需要梯子，部分功能收费。 |
 | [Google-Gemini](https://gemini.google.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | Google Gemini，对话与多模态，提供免费额度与订阅。 |
 
@@ -20,10 +20,8 @@ summary: 按类别和应用场景整理的各种AI工具
 
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
-| [Microsoft-Copilot](https://copilot.microsoft.com/?showconv=1) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 基于必应搜索，能给出外部参考链接，幻觉相对较弱。 |
 | [Poe](https://poe.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 打包多种 GPT，含免费与收费模型、绘图和开发等。 |
 | [学术 GPT 免费版](https://academic.chatwithpaper.org/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 免费学术 GPT，支持 arXiv 与 PDF，问答、翻译等功能。 |
-| [百度-文心一言](https://yiyan.baidu.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 百度出品，日常对话、写作、绘图等。 |
 
 </details>
 
@@ -72,7 +70,6 @@ summary: 按类别和应用场景整理的各种AI工具
 
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
-| [CodeGeeX](https://github.com/THUDM/CodeGeeX2) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | 国产编程助手，多语言代码生成，注册后可免费使用。 |
 | [阿里-通义灵码](https://tongyi.aliyun.com/lingma/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 基于通义大模型的智能编码助手，可提升编码效率。 |
 
 </details>

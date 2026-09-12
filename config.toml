@@ -9,6 +9,13 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
+# 允许在 Markdown 中书写原生 HTML，`<details>` 折叠分组依赖此设置。
+# Hugo 默认 unsafe = false，会剔除内容中的原生 HTML，导致所有 <details> 分组失效。
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [module]
   [module.hugoVersion]
     extended = true

@@ -1,3 +1,8 @@
 public/
 resources/
 .hugo_build.lock
+
+# 本地工具与临时文件（仅本机使用，不纳入版本控制）
+.tools/
+.tmp-*
+.gh-token
