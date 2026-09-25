@@ -63,6 +63,7 @@ summary: 文献的管理、阅读、笔记、写作
 | [textranch](https://textranch.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 单次100词以内免费，能按照需求进行一部分定置。 |
 | [grammarcheck](https://www.nounplus.net/grammarcheck/) | ![Dead](https://img.shields.io/badge/Status-Dead-red) ![Free](https://img.shields.io/badge/Price-Free-green) | 免费、不限文本长度，但只能进行基本的语法错误检测。 |
 | [Articlo](https://getarticlo.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Paid](https://img.shields.io/badge/Price-Paid-blueviolet) | 按目标期刊要求排版已有 Word 稿件，返回可编辑 DOCX、修改摘要与作者检查清单；单篇 $19 起，编辑内容仍需人工核对。（厂商提交） |
+| [ScholarSpec](https://scholarspec.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Paid](https://img.shields.io/badge/Price-Paid-blueviolet) | 学术论文与学位论文排版合规引擎，支持 IEEE、Nature、Elsevier 等期刊预设与 150+ 高校学位论文规范，自动调整版面几何、三线表、参考文献悬挂缩进并生成合规审查报告；单篇 $9.99 起。（厂商提交） |
 
 </details>
 
