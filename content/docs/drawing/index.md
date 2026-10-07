@@ -22,6 +22,7 @@ summary: 绘图与数据可视化工具
 | :--- | :--- | :--- |
 | [chart-studio](https://chart-studio.plotly.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | Plotly 在线制图，支持数据处理、绘制、导出，部分功能需注册/收费。 |
 | [cnsknowall](https://cnsknowall.com/#/HomePage) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 国产在线科研绘图工具，多图表类型、自动配色、类 Excel 编辑，登录免费。 |
+| [Covalent](https://chempirical.com/covalent/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 在线化学结构式编辑器，绘制时检查化合价，可导出 SVG、PNG、MOL 与 SMILES，免费且无需注册。 |
 
 ## Python
 
