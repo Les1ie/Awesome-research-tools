@@ -87,6 +87,7 @@ summary: 文献的管理、阅读、笔记、写作
 | 名称 | 状态 | 说明 |
 | :--- | :--- | :--- |
 | [Obsidian](https://obsidian.md/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 基于 Markdown 的本地知识管理工具，功能丰富，插件众多，免费。 |
+| [Omphalis](https://omphalis.ai) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | Workspace to finish dense articles, PDFs, podcasts and video; mark passages and keep notes on the source. Free to try. |
 | [语雀](https://www.yuque.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 阿里知识库创建平台，支持 Markdown 格式，功能丰富，免费。 |
 | [Typora](https://typoraio.cn/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 免费轻简化 Markdown 笔记软件。 |
 
