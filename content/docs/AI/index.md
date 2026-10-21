@@ -86,3 +86,4 @@ summary: 按类别和应用场景整理的各种AI工具
 | :--- | :--- | :--- |
 | [提示工程指南](https://www.promptingguide.ai/zh) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | LLM 与提示工程学习资料与指南。 |
 | [Prompt 大全](https://gpt.candobear.com/prompt) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 各类提示词案例，主要以图片形式展示。 |
+| [Anti-Defensive Writing](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 论文「反防御性写作」提示词与 Agent Skill 包：核心是别在审稿人开口前先自己递刀子。复制即用，需配合 Claude Code / Codex 等 Agent。 |
