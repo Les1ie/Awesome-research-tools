@@ -44,6 +44,7 @@ summary: 文献的管理、阅读、笔记、写作
 | [DeepL翻译器](https://www.deepl.com/translator) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 有时候比谷歌、百度的翻译更为智能。 |
 | [知云文献翻译软件](https://www.yuque.com/xtranslator/zy/gga6xa) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 带划词翻译的 PDF 阅读器，免费，可自己选择翻译接口。 |
 | [arxiv-vanity](https://www.arxiv-vanity.com/) | ![Dead](https://img.shields.io/badge/Status-Dead-red) ![Free](https://img.shields.io/badge/Price-Free-green) | 以网页打开arXiv论文，方便快速阅读和翻译（有些论文会出现排版问题）。已内嵌到arXiv中，因此项目不再被维护。 |
+| [Web Highlighter](https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Free](https://img.shields.io/badge/Price-Free-green) | 本地优先的网页高亮标注浏览器扩展，支持多色高亮、行内笔记，数据仅存本地；可导入 Weava CSV，导出 JSON/CSV/Markdown；免费，已上架 Microsoft Edge 商店。（作者提交） |
 
 ## 写作检查与优化
 
