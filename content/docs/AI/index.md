@@ -31,6 +31,7 @@ summary: 按类别和应用场景整理的各种AI工具
 | :--- | :--- | :--- |
 | [硅基流动](https://account.siliconflow.cn/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 价格亲民，赠送额度，支持 DeepSeek、Qwen、Hunyuan、THUDM 等；支持微调和批量推理。 |
 | [阿里云百炼](https://bailian.console.aliyun.com/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Freemium](https://img.shields.io/badge/Price-Freemium-orange) | 阿里系模型平台，含通义系列，也支持 DeepSeek 等其他模型。 |
+| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) ![Paid](https://img.shields.io/badge/Price-Paid-blueviolet) | Base 主网研究 API。发现免费（x402）；外部 USDC 付款可购买短研究报告（$2）或 OpenAI 兼容对话（$0.001）。 |
 
 ## 本地客户端
 
